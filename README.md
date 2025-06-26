@@ -4,6 +4,8 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Built with](https://img.shields.io/badge/Built_with-YOLOv8_&_OpenCV-orange.svg)
 
+This application provides a real-time solution for monitoring workplace safety by automatically detecting whether personnel are wearing hard hats.
+
 ## 📖 Table of Contents
 - [Key Features](#-key-features)
 - [Screenshots](#-screenshots)

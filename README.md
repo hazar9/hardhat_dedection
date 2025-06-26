@@ -4,8 +4,6 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Built with](https://img.shields.io/badge/Built_with-YOLOv8_&_OpenCV-orange.svg)
 
-A computer vision project developed for the CEN466 Graduation Thesis at Çukurova University. This application provides a real-time solution for monitoring workplace safety by automatically detecting whether personnel are wearing hard hats.
-
 ## 📖 Table of Contents
 - [Key Features](#-key-features)
 - [Screenshots](#-screenshots)
@@ -113,8 +111,7 @@ python main.py
 ├── main.py               # Main application entry point
 ├── ui_manager.py         # GUI layout and management
 ├── video_processor.py    # Video processing and detection logic
-├── requirements.txt      # Project dependencies
-└── README.md
+└── requirements.txt      # Project dependencies
 ```
 
 ## 📄 License
